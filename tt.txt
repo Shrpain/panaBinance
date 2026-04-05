@@ -1,0 +1,13 @@
+* KHÔNG BAO GIỜ XÓA HAY THAY ĐỔI FILE NÀY DÙ CÓ GÌ ĐI NỮA CŨNG GIỮ NGUYÊN
+ token  telegram : 8447928863:AAHYs6gu-OjR2-7jknmXwFd41SVNWPcui3g
+ zalo : 382932568315712287:bJZhaJxWXDDTxREqgxLGeLGsyBOsaXZjXDLpyMpKtnIiDyCYNmDWtcLAbGnGyqve:7acf1493bcd955870cc8
+ - tự động lấy chat id
+Key API:
+DBcDyaOcIJzMHpSxwxjlGRyI1k3whoWNE56uzx3cOa6EQZEXU3oNCCHDQBd9qA6W
+Key bí mật:
+CG1CCj6OGB6lT0NEKMjDFd3NHOYLmn2Oa4S22jDg27epw5nJsB1P8AOr2DaY9PUc
+
+14.236.50.6
+36.50.55.100
+
+https://hook.nettruyenvpr.online/webhook/keH-kd3HZj5HklAUoioFrTHzeNnFR6na
